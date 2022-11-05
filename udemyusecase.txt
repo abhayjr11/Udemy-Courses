@@ -1,0 +1,17 @@
+1. how many total courses offering udemy?
+2. the total number of python courses in udemy?
+3. the number of boot camps in udemy?
+4. the number of 5-star rating courses?
+5. graph of rating?
+6. the number of paid and free courses?
+7. what courses have the most and least number of subscribers?
+8. what courses have the most and least number of reviews?
+9. longest course and shortest course?
+10. graph of years number of courses published
+11. highest discount offering?
+12. 10 cheapest courses?
+13. 10 highest-priced courses?
+14. What is the best course in udemy for python?
+15. the cheapest course for python?
+16. the cheapest course for MYSQL?
+17. number of BootCamp for python and mysql
